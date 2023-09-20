@@ -1,0 +1,24 @@
+.escondidinho{
+    display: none;
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button{
+   padding: 12px;
+   width: 20%;
+   background-color: aqua;
+   border: none;
+   margin-top: 40px;
+}
+.result{
+    padding: 40px;
+    width: 40%;
+    background-color: rgb(167, 119, 212);
+    text-align: center;
+    margin-top: 50px;
+    border: 2px solid purple;
+}
